@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Tmp_Website</title>
-    <link>http://localhost:1313/tmp_personal_website/.com/tags/</link>
+    <link>https://mannmalviya.github.io/tmp_personal_website/tags/</link>
     <description>Recent content in Tags on Tmp_Website</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Tue, 25 Mar 2025 22:38:50 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/tmp_personal_website/.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mannmalviya.github.io/tmp_personal_website/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Css</title>
-      <link>http://localhost:1313/tmp_personal_website/.com/tags/css/</link>
+      <link>https://mannmalviya.github.io/tmp_personal_website/tags/css/</link>
       <pubDate>Tue, 25 Mar 2025 22:38:50 -0700</pubDate>
-      <guid>http://localhost:1313/tmp_personal_website/.com/tags/css/</guid>
+      <guid>https://mannmalviya.github.io/tmp_personal_website/tags/css/</guid>
       <description></description>
     </item>
     <item>
       <title>Html</title>
-      <link>http://localhost:1313/tmp_personal_website/.com/tags/html/</link>
+      <link>https://mannmalviya.github.io/tmp_personal_website/tags/html/</link>
       <pubDate>Tue, 25 Mar 2025 22:38:50 -0700</pubDate>
-      <guid>http://localhost:1313/tmp_personal_website/.com/tags/html/</guid>
+      <guid>https://mannmalviya.github.io/tmp_personal_website/tags/html/</guid>
       <description></description>
     </item>
   </channel>

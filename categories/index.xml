@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Tmp_Website</title>
-    <link>http://localhost:1313/tmp_personal_website/.com/categories/</link>
+    <link>https://mannmalviya.github.io/tmp_personal_website/categories/</link>
     <description>Recent content in Categories on Tmp_Website</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Tue, 25 Mar 2025 22:38:50 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/tmp_personal_website/.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mannmalviya.github.io/tmp_personal_website/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tech</title>
-      <link>http://localhost:1313/tmp_personal_website/.com/categories/tech/</link>
+      <link>https://mannmalviya.github.io/tmp_personal_website/categories/tech/</link>
       <pubDate>Tue, 25 Mar 2025 22:38:50 -0700</pubDate>
-      <guid>http://localhost:1313/tmp_personal_website/.com/categories/tech/</guid>
+      <guid>https://mannmalviya.github.io/tmp_personal_website/categories/tech/</guid>
       <description></description>
     </item>
   </channel>
