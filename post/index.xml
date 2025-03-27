@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Tmp_Website</title>
-    <link>http://localhost:1313/post/</link>
+    <link>http://localhost:1313//mannmalviya.github.io/tmp_personal_website/.com/post/</link>
     <description>Recent content in Posts on Tmp_Website</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Tue, 25 Mar 2025 22:38:50 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313//mannmalviya.github.io/tmp_personal_website/.com/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pilot</title>
-      <link>http://localhost:1313/post/pilot/</link>
+      <link>http://localhost:1313//mannmalviya.github.io/tmp_personal_website/.com/post/pilot/</link>
       <pubDate>Tue, 25 Mar 2025 22:38:50 -0700</pubDate>
-      <guid>http://localhost:1313/post/pilot/</guid>
+      <guid>http://localhost:1313//mannmalviya.github.io/tmp_personal_website/.com/post/pilot/</guid>
       <description></description>
     </item>
     <item>
       <title>Second</title>
-      <link>http://localhost:1313/post/second/</link>
+      <link>http://localhost:1313//mannmalviya.github.io/tmp_personal_website/.com/post/second/</link>
       <pubDate>Tue, 25 Mar 2025 22:38:50 -0700</pubDate>
-      <guid>http://localhost:1313/post/second/</guid>
+      <guid>http://localhost:1313//mannmalviya.github.io/tmp_personal_website/.com/post/second/</guid>
       <description>&lt;h2 id=&#34;hi-this-is-mann&#34;&gt;Hi This is Mann&lt;/h2&gt;
 &lt;p&gt;I am a Human being living on planet Aerth.&lt;/p&gt;</description>
     </item>
